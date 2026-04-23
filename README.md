@@ -22,10 +22,10 @@ Automatyk z doświadczeniem w uruchamianiu maszyn, instalacjach elektrycznych, d
 Jeśli chcesz się skontaktować, zapraszam:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/twoj-linkedin" target="blank">
+  <a href="https://www.linkedin.com/in/jakub-giza-207455300/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:twoj-mail@example.com" target="blank">
+  <a href="mailto:giza.jakub4@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
   </a>
 </p>
