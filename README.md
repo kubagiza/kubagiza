@@ -38,19 +38,19 @@ Jeśli chcesz się skontaktować, zapraszam:
 
 ### Języki programowania
 
-![Java](https://img.shields.io/badge/Java-średnio-orange?logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-uczę%20się-yellow?logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Javalogo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript?logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-podstawy-3776AB?logo=python\&logoColor=white)
 
 ### Automatyka i przemysł
 
-![EPLAN](https://img.shields.io/badge/EPLAN-praca-green)
-![QElectroTech](https://img.shields.io/badge/QElectroTech-praca-green)
-![EtherCAT](https://img.shields.io/badge/EtherCAT-praktyka-success)
-![Modbus TCP](https://img.shields.io/badge/Modbus%20TCP-praktyka-success)
-![ADS](https://img.shields.io/badge/ADS-praktyka-success)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-praktyka-success)
-![Wi-Fi](https://img.shields.io/badge/Wi--Fi-praktyka-success)
+![EPLAN](https://img.shields.io/badge/EPLAN)
+![QElectroTech](https://img.shields.io/badge/QElectroTech)
+![EtherCAT](https://img.shields.io/badge/EtherCAT)
+![Modbus TCP](https://img.shields.io/badge/Modbus%20TCP)
+![ADS](https://img.shields.io/badge/ADS)
+![LoRaWAN](https://img.shields.io/badge/LoRaWAN)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi)
 
 ### Monitoring i analiza danych
 
