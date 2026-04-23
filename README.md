@@ -66,18 +66,6 @@ Jeśli chcesz się skontaktować, zapraszam:
 
 ---
 
-## 📊 Statystyki GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kubagizab&show_icons=true&theme=dark" alt="GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubagiza&layout=compact&theme=dark" alt="Top languages" />
-</p>
-
----
-
 ## 🎯 Aktualnie rozwijam
 
 - Java
