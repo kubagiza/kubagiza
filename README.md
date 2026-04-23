@@ -76,13 +76,4 @@ Jeśli chcesz się skontaktować, zapraszam:
 
 ---
 
-## 🌟 Wyróżnione repozytorium
-
-- Demo: [kubagiza.github.io/cv/index.html](https://kubagiza.github.io/cv)
-- Repozytorium: [github.com/kubagiza/cv](https://github.com/kubagiza/cv)
-
-Krótki projekt prezentujący moje CV w formie strony internetowej.
-
----
-
 ⭐ Jeśli chcesz, możesz obserwować moje projekty i postępy.
